@@ -1,3 +1,10 @@
+@font-face {
+    font-family: undertale battle font_0;
+    src: url('./undertale battle font_0.ttf');
+}
+
+
+
 .d-row{
     display: flex;
     flex-direction: row;
@@ -12,4 +19,5 @@ body{
     display: flex;
     flex-direction: column;
     height: 100vh;
+    font-family: undertale battle font_0;
 }

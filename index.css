@@ -2,6 +2,10 @@
     margin: auto 0;
 }
 
+body{
+    background-image: url('https://phonoteka.org/uploads/posts/2021-05/1620310846_29-phonoteka_org-p-sprait-fon-34.png');
+}
+
 .menu a{
     font-size: 40px;
     margin-right: auto;
